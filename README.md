@@ -1,3 +1,13 @@
+## Descargar todos los libros
+
+Para descargar todos los libros en la carpeta `descargas`, ejecuta el siguiente script desde la raíz del repositorio:
+
+```bash
+bash descargar.sh
+```
+
+---
+
 1. Discrete Mathematics for Computer Science</br>
                 <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
