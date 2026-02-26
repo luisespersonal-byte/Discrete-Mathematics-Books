@@ -43,5 +43,36 @@
                 
 15. Discrete mathematics with algorithms </br>
                 <a href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/DS15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                      
-                
-                
+
+---
+
+## Installation with Xcode
+
+You can clone this repository using Xcode's built-in source control to get all the Discrete Mathematics books on your Mac.
+
+### Prerequisites
+
+- macOS with [Xcode](https://apps.apple.com/app/xcode/id497799835) installed (available free from the Mac App Store)
+
+### Steps
+
+1. Open **Xcode**.
+2. From the menu bar, select **Source Control → Clone…** (or on the Xcode welcome screen, click **Clone an Existing Project**).
+3. In the search field, paste the repository URL:
+   ```
+   https://github.com/luisespersonal-byte/Discrete-Mathematics-Books.git
+   ```
+4. Click **Clone**.
+5. Choose a local folder where you want to save the repository and click **Clone**.
+6. Xcode will download the repository. Once finished, open the cloned folder in **Finder** to access the PDF books (DS1.pdf – DS15.pdf).
+
+### Alternative: Clone via Terminal in Xcode
+
+1. Open **Xcode** and navigate to the menu bar.
+2. Open the built-in terminal from **Xcode → Open Developer Tool → Terminal** (or open **Terminal.app** directly).
+3. Run:
+   ```bash
+   git clone https://github.com/luisespersonal-byte/Discrete-Mathematics-Books.git
+   ```
+4. The books will be downloaded into a `Discrete-Mathematics-Books` folder in your current directory.
+
